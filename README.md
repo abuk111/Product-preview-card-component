@@ -35,8 +35,8 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Click!]()
+- Solution URL: [Github](https://github.com/abuk111/Product-preview-card-component)
+- Live Site URL: [Click!](https://abuk111.github.io/Product-preview-card-component/)
 
 ## My process
 
